@@ -1,0 +1,665 @@
+fileFormatVersion: 2
+guid: 5b3b1792a72a47e4480b0a640789192e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7223950226953391895
+    second: Ground1x1
+  - first:
+      213: -8377130690987618698
+    second: Ground
+  - first:
+      213: -4684333735789482159
+    second: Sky
+  - first:
+      213: -5062486230716756072
+    second: UnderGround
+  - first:
+      213: -6299859446329873125
+    second: Wall1x1
+  - first:
+      213: -5353495717233961571
+    second: Wall1x2
+  - first:
+      213: 5393971175171893721
+    second: Wall1x4
+  - first:
+      213: -5368575004228457089
+    second: Ground1x2
+  - first:
+      213: -6833445872158455971
+    second: Ground1x4
+  - first:
+      213: -8266884374353200389
+    second: UnderGround1x1
+  - first:
+      213: 3044527272031507556
+    second: UnderGround1x2
+  - first:
+      213: -1671228386341252759
+    second: UnderGround1x4
+  - first:
+      213: 323601015836088253
+    second: Wall2x1
+  - first:
+      213: 5473657246224039264
+    second: Wall2x2
+  - first:
+      213: 3810950913635698798
+    second: Wall4x4
+  - first:
+      213: 7568580137014589726
+    second: Wall2x4
+  - first:
+      213: -6278836463843693366
+    second: UnderGround2x1
+  - first:
+      213: 8363042547522717012
+    second: UnderGround2x2
+  - first:
+      213: -1295793661999561255
+    second: Wall4x1
+  - first:
+      213: -1810057476954499666
+    second: Wall4x2
+  - first:
+      213: -9139570174221951996
+    second: UnderGround4x1
+  - first:
+      213: -1482793264700432979
+    second: UnderGround4x2
+  - first:
+      213: -7401512191681031051
+    second: UnderGround4x4
+  - first:
+      213: 1401389677987898383
+    second: Wall1x3
+  - first:
+      213: -4812967248964926432
+    second: Wall1x5
+  - first:
+      213: -5797907595584522600
+    second: Wall3x1
+  - first:
+      213: 369386256350122315
+    second: Wall5x1
+  - first:
+      213: -5702701865015187552
+    second: Wall5x3
+  - first:
+      213: -8372630223031297648
+    second: Wall3x3
+  - first:
+      213: 2427840654659015027
+    second: Wall3x5
+  - first:
+      213: 7272711288447323762
+    second: Wall5x5
+  - first:
+      213: 2482441252310630663
+    second: Ground1x3
+  - first:
+      213: -5318329445245836560
+    second: Ground1x5
+  - first:
+      213: -3568388839314207621
+    second: UnderGround3x1
+  - first:
+      213: 5920217049342795526
+    second: UnderGround5x1
+  - first:
+      213: -3929527557722469746
+    second: UnderGround1x3
+  - first:
+      213: -173093865507428560
+    second: UnderGround1x5
+  - first:
+      213: 3244574477134146590
+    second: UnderGround3x3
+  - first:
+      213: -817913068740708076
+    second: UnderGround3x5
+  - first:
+      213: 2106757305912776807
+    second: UnderGround5x5
+  - first:
+      213: 815664313693494829
+    second: UnderGround5x3
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wall1x1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 277
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8cf7dba9f5be140bad1da350fc3992
+      internalID: -6299859446329873125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall1x3
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 277
+        width: 100
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea88e4fe676e16419e92a3e76875e57
+      internalID: 1401389677987898383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall1x5
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 277
+        width: 168
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0c9c58ecfc84a45af78e84870991fd
+      internalID: -4812967248964926432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall3x1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 173
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c129b3e29831344ab3b3d6959ba5f2
+      internalID: -5797907595584522600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall5x1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 32
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2173e79dee965f2459e14a7ecd47a1e2
+      internalID: 369386256350122315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall5x3
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1
+        width: 100
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff7adf3f75b97741963c6736118a5cf
+      internalID: -5702701865015187552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall3x3
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 173
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2548f200b03f7c641af7718709729bdc
+      internalID: -8372630223031297648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall3x5
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 173
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04cb6d6d6dd297346afcb495f8a58553
+      internalID: 2427840654659015027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall5x5
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fa6d28f55455647bfe828ba4831165
+      internalID: 7272711288447323762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground1x1
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 277
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6508ad3a47ee447a8245e8d54b1ff7
+      internalID: 7223950226953391895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground1x3
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 277
+        width: 100
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9931543bf4f6f498911d34defc283c
+      internalID: 2482441252310630663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground1x5
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 277
+        width: 168
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b535b97b9c67ed4fa84e830601f09c3
+      internalID: -5318329445245836560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderGround1x1
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 277
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbaddafc87c4abe438272274b311078e
+      internalID: -8266884374353200389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderGround3x1
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 173
+        width: 32
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06eaa563c733fe4b90c4d71dca9d3ce
+      internalID: -3568388839314207621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderGround5x1
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1
+        width: 32
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26cd9b7b5d02ef49af6d10b45e92f85
+      internalID: 5920217049342795526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderGround1x3
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 277
+        width: 100
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12037c60fba60d8428717da05899f0e7
+      internalID: -3929527557722469746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderGround1x5
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 277
+        width: 168
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa73c4d87d4e804db021006de255d3f
+      internalID: -173093865507428560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderGround3x3
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 173
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee7f5630d2cb484292e3711c2b15c93
+      internalID: 3244574477134146590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderGround3x5
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 173
+        width: 168
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99971b946b3d609448fc8be400ecd4fa
+      internalID: -817913068740708076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderGround5x5
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a593d538fd94d46a1581f1ebcda0aa
+      internalID: 2106757305912776807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnderGround5x3
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1
+        width: 100
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b6529c0b5505b408a08822730ad222
+      internalID: 815664313693494829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: dbb4a3e2bb30a344dac50d10cd38d6a3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
